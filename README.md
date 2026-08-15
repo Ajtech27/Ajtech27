@@ -68,6 +68,9 @@ I am a Backend Developer and Data Analyst with a strong foundation in Mathematic
 <p align="center">
 Every project is an opportunity to learn something new. Every bug is a lesson, and every challenge is a chance to become better. 
 </p>
+<p align="center">
+If you'd like to collaborate, discuss an idea, or simply connect, feel free to reach out through any of the links above.
+</p>
  <p align="center">
  Let's build something meaningful.
 </p>

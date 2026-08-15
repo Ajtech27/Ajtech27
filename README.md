@@ -9,7 +9,7 @@
 <p align="center">
  
   <br>
-  <i><a href="https://linkedin.com/in/afolayan-joseph"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://twitter.com/ajtech27"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> <a href="mailto:josephafolayan012@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://datascienceportfolio.io/aitech012"> <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/> </a>  "</i>
+  <i><a href="https://linkedin.com/in/afolayan-joseph"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://twitter.com/ajtech27"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> <a href="mailto:josephafolayan012@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://datascienceportfolio.io/aitech012"> <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/> </a></i>
 </p>
 
 ---
@@ -65,25 +65,10 @@ I am a Backend Developer and Data Analyst with a strong foundation in Mathematic
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [**Churn Prediction API**](https://github.com/Ajtech27/churn-prediction-api) | ML-powered customer churn prediction API with FastAPI and Docker | FastAPI, Scikit-learn, Docker |
-| [**Flask Market**](https://github.com/Ajtech27/flask-market) | E-commerce marketplace with user authentication, buying/selling | Flask, SQLAlchemy, Flask-Login |
-| [**Library Management System**](https://github.com/Ajtech27/library-management-system) | OOP-based system with inheritance, type hints, and magic methods | Python OOP |
-| [**CartPulse Churn Dashboard**](https://github.com/Ajtech27/cartpulse-churn) | Power BI dashboard analyzing 52K+ customer records | Power BI, DAX |
-
----
-
-### 📈 My Journey
-
-```mermaid
-timeline
-    title Career Progress
-    2018 – 2024 : B.Tech Mathematical Science
-    2023 – 2024 : Data Analyst Intern (N-TECH)
-    2024 – 2026 : Freelance Data Analyst
-    2026 : Data → AI Engineer Transition
-    2026+ : 🔮 Building Production AI Systems
-
+<p align="center">
+Every project is an opportunity to learn something new. Every bug is a lesson, and every challenge is a chance to become better. 
+</p>
+ <p align="center">
+ Let's build something meaningful.
+</p>
+ <!-- Footer Banner --><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=120&section=footer" width="100%"/> </p>

@@ -9,7 +9,7 @@
 <p align="center">
  
   <br>
-  <i><a href="https://linkedin.com/in/afolayan-joseph"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://twitter.com/ajtech27"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> <a href="mailto:josephafolayan012@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://datascienceportfol.io/ajtech012"> <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/> </a></i>
+  <i><a href="https://linkedin.com/in/afolayan-joseph"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://twitter.com/ajtech27"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> <a href="mailto:josephafolayan012@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="ajtechportfolio.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/> </a></i>
 </p>
 
 ---
@@ -49,6 +49,16 @@ I am a Backend Developer and Data Analyst with a strong foundation in Mathematic
 #### BI & Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+## 🚀 Featured Projects
+
+| Project | Description | Live Demo |
+| :--- | :--- | :--- |
+| [**HotelBooking**](https://github.com/Ajtech27/booking-system) | Hotel booking system with authentication, room management, and booking conflict detection | [Live Demo](https://hotel-booking-vdfu.onrender.com) |
+| [**JM Store**](https://github.com/Ajtech27/flask-market) | E-commerce marketplace with buying/selling | [Live Demo](https://jm-store-wvua.onrender.com) |
+| [**Todo App**](https://github.com/Ajtech27/todo-app-localstorage) | Interactive todo app with localStorage persistence, inline editing, and dark mode | [Live Demo](https://todo-app-localstorage-w19f.vercel.app/) |
+| [**Todo App (Auth + DB)**](https://github.com/Ajtech27/todo-app-auth) | Full-stack todo app with PostgreSQL | [Live Demo](https://todo-app-ksl3.onrender.com) |
 
 ---
 
